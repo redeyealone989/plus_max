@@ -1,18 +1,18 @@
-START_TEXT = """**🌟 Welcome to Plus OTP Bot!** 
+START_TEXT = """👋 Hello & Welcome to  
+💠💠💠 Plus OTP Bot 💠💠💠  
+Your Trusted OTP Marketplace!
 
-🔐 **Secure OTP Purchasing Platform**
-💸 **Starting at $1 per number**
-⚡ **Instant Delivery System**
+🔒 Why Choose Us?
+➤ 🧾 100% Verified Telegram Accounts  
+➤ 🚀 Instant OTP Forwarding in Real-Time  
+➤ 🕔 24/7 Active Support Team  
+➤ 📦 Fresh Stock Updated Daily
 
-📌 **Key Features:**
-- `🛡️ 100% Verified Accounts`
-- `⏱️ Real-time OTP Forwarding`
-- `🔒 Secure Payment Gateway`
-- `📞 24/7 Support Team`
-- `📈 Transparent Pricing`
-- `🔥 Accounts stock updates`
+💡 Start now to experience lightning-fast delivery and unbeatable reliability!
 
-**Use buttons below to get started!**"""
+🔽 Use the menu below to begin.
+"""
+
 
 START_IMG = "https://i.ibb.co/ns6DVW48/e126d3f6516f.jpg"
 DEPOSIT_TEXT = "**💳 Deposit Funds**\n\nSelect amount to add to your wallet:"
